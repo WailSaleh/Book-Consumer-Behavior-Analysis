@@ -173,7 +173,7 @@ The notebook includes:
 # 📁 Repository Structure
 
 ```text
-book-market-analysis/
+book-consumer-behavior-analysis/
 │
 ├── README.md
 └── Book Consumer Behavior Analysis.ipynb
