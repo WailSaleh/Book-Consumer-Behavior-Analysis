@@ -176,7 +176,7 @@ The notebook includes:
 book-market-analysis/
 │
 ├── README.md
-└── Book_Market_Analysis.ipynb
+└── Book Consumer Behavior Analysis.ipynb
 ```
 
 ---
